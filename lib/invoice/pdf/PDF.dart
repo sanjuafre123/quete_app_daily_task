@@ -44,7 +44,7 @@ Future<Uint8List> generatePdf() {
                 width: 3,
                 color: PdfColors.black,
               ),
-              children: [
+              children:  [
                 pw.TableRow(
                   children: [
                     pw.Text(
