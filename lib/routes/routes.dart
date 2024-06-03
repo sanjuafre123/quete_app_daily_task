@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 
 import '../dialoge/DialogeBox.dart';
+import '../invoice/pdf/PDF.dart';
 import '../invoice/pdf/invoiceGenerator.dart';
 import '../invoice/pdf/invoicedetails.dart';
-import '../pdfscreen/PdfScreen.dart';
+
 
 // import '../invoice/pdf.dart';
 

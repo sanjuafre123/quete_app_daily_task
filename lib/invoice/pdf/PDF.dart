@@ -4,7 +4,6 @@ import 'package:pdf/pdf.dart';
 import 'package:pdf/widgets.dart' as pw;
 import 'package:flutter/material.dart';
 import 'package:printing/printing.dart';
-
 import '../../Utils/Gloable.dart';
 
 class PdfScreen extends StatefulWidget {
