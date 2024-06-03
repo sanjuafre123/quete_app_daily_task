@@ -70,3 +70,30 @@
 ## Limited Flexibility :
 - ###  Rigidly defined model classes can sometimes limit flexibility, especially when dealing with dynamic or evolving data structures. If your application frequently needs to handle data with varying structures, maintaining strict model classes can be challenging.
 
+
+<h3 align="center"> ✨ DialogeBox ✨ </h3>
+
+<h1 align="left"></h1>
+<div align ="center">
+
+  <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/396774f0-bba4-4b04-9598-1ae159798321" height ="550">
+  <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/bc1e03c1-4d8e-495a-b667-026788c6914b" height ="550">
+  <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/722b2f96-a1dd-4e95-a968-645bfcf28706" height ="550">
+
+
+https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/9590595a-2d09-472f-9a47-a01f19723817
+
+
+</div>
+
+
+
+<h3 align="center"> ✨ invoice generator ✨ </h3>
+
+<h1 align="left"></h1>
+<div align ="center">
+
+  <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/ce3ca1ed-49a1-4ea5-bf9e-21f44dbeb835" height ="550">
+  <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/1708e2f7-1c8b-4914-9e23-c85edd96acb0" height ="550">
+
+</div>
