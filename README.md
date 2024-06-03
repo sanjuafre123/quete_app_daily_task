@@ -80,10 +80,7 @@
 
   https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/9590595a-2d09-472f-9a47-a01f19723817
 
-
 </div>
-
-
 
 <h3 align="center"> ✨ invoice generator ✨ </h3>
 
@@ -96,4 +93,17 @@
 
   https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/dc0b7df5-55e2-4f30-8583-529e31957e2b
 
+</div>
+
+</div>
+
+<h3 align="center"> ✨ Random Quotes Generator ✨ </h3>
+
+<h1 align="left"></h1>
+<div align ="center">
+
+  <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/e6ff2709-171e-46a2-915d-09092cadbc9c" height ="550">
+  <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/d751db41-adf0-4fbe-8c37-c4e19daea0bb" height ="550">
+
+ https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/6c5b81f6-e4b3-40e1-a103-cd415caf4c1d
 </div>
