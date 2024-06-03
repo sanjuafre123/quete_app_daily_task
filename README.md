@@ -81,7 +81,7 @@
   <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/722b2f96-a1dd-4e95-a968-645bfcf28706" height ="550">
 
 
-https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/9590595a-2d09-472f-9a47-a01f19723817
+  https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/9590595a-2d09-472f-9a47-a01f19723817
 
 
 </div>
@@ -95,5 +95,8 @@ https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/9590595a-2
 
   <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/ce3ca1ed-49a1-4ea5-bf9e-21f44dbeb835" height ="550">
   <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/1708e2f7-1c8b-4914-9e23-c85edd96acb0" height ="550">
+  <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/dada0dea-7ed1-4e59-9377-b4ebd3dee5b1" height ="550">
+
+  https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/dc0b7df5-55e2-4f30-8583-529e31957e2b
 
 </div>
