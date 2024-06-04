@@ -104,6 +104,18 @@
 
   <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/e6ff2709-171e-46a2-915d-09092cadbc9c" height ="550">
   <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/d751db41-adf0-4fbe-8c37-c4e19daea0bb" height ="550">
-
+ 
  https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/6c5b81f6-e4b3-40e1-a103-cd415caf4c1d
+</div>
+
+<h3 align="center"> ✨ Listview to Gridview Toggle View ✨ </h3>
+
+<h1 align="left"></h1>
+<div align ="center">
+
+  <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/1cc2b6c7-51c5-4ca7-b2bf-5893970bcb29" height ="550">
+  <img src = "https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/60b0004b-5c37-45dc-b0b3-6b512cacabd4" height ="550">
+
+  https://github.com/sanjuafre123/quete_app_daily_task/assets/148860124/5a855473-06ec-4958-a5ea-735a50b4532a
+
 </div>
