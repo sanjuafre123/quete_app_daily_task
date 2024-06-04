@@ -76,13 +76,14 @@ class _QuoteScreenState extends State<QuoteScreen> {
           showDialog(
             context: context,
             builder: (context) => AlertDialog(
+              backgroundColor: Colors.primaries[Random().nextInt((Colors.primaries.length))],
               title: Text(
                 quoteModel!.quoteModelList[x].author!,
-                style: TextStyle(fontWeight: FontWeight.w600, fontSize: 22),
+                style: TextStyle(fontWeight: FontWeight.w600, fontSize: 22,color: Colors.white),
               ),
               content: Text(
                 quoteModel!.quoteModelList[x].quote!,
-                style: TextStyle(fontWeight: FontWeight.w500, fontSize: 18),
+                style: TextStyle(fontWeight: FontWeight.w500, fontSize: 18,color: Colors.white),
               ),
               actions: [
                 TextButton(
@@ -94,7 +95,7 @@ class _QuoteScreenState extends State<QuoteScreen> {
                   child: Text(
                     'back',
                     style: TextStyle(
-                        color: Colors.black,
+                        color: Colors.white,
                         fontSize: 20,
                         fontWeight: FontWeight.w400),
                   ),
@@ -108,7 +109,7 @@ class _QuoteScreenState extends State<QuoteScreen> {
                   child: Text(
                     'save',
                     style: TextStyle(
-                        color: Colors.black,
+                        color: Colors.white,
                         fontSize: 20,
                         fontWeight: FontWeight.w400),
                   ),
@@ -117,10 +118,9 @@ class _QuoteScreenState extends State<QuoteScreen> {
             ),
           );
         },
-        backgroundColor: Colors.black,
         child: Icon(
           Icons.notification_add,
-          color: Colors.white,
+          color: Colors.black,
           size: 34,
         ),
       ),

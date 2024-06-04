@@ -1,5 +1,4 @@
 
-import 'package:quote_app_daily_task/Random_Quote/quoteList.dart';
 
 class QuoteModel {
   String? quote;
