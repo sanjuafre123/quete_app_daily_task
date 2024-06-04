@@ -55,12 +55,12 @@ class _QuoteScreenState extends State<QuoteScreen> {
                   title: Text(
                     quoteModel!.quoteModelList[index].quote!,
                     style: TextStyle(
-                        color: Colors.white, fontWeight: FontWeight.w400),
+                        color: Colors.black),
                   ),
                   subtitle: Text(
                     quoteModel!.quoteModelList[index].quote!,
                     style: TextStyle(
-                        color: Colors.white, fontWeight: FontWeight.bold),
+                        color: Colors.black),
                   ),
                 ),
               ),

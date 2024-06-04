@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 final List<Color> cardColors = [
   Colors.blue,
-  Colors.red,
+  Colors.red.shade500,
   Colors.green,
   Colors.orange,
   Colors.teal,
