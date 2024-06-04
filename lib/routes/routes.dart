@@ -12,6 +12,7 @@ class MyRoutes {
     // '/': (context) => const InvoiceDetails(),
     // '/detail': (context) => const InvoiceGenerator(),
     // '/pdf': (context) => const PdfScreen(),
-    '/': (context) => const QuoteScreen(),
+    // '/': (context) => const QuoteScreen(),
+    '/': (context) => const ToggleScreen(),
   };
 }
