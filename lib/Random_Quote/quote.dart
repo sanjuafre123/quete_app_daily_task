@@ -30,7 +30,7 @@ class _QuoteScreenState extends State<QuoteScreen> {
         actions: [
           Padding(
             padding: const EdgeInsets.only(right: 10),
-            child: Icon(Icons.format_quote_outlined,size: 30,),
+            child: Icon(Icons.apps,size: 27,),
           ),
         ],
         centerTitle: true,
